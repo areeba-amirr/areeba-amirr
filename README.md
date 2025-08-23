@@ -4,10 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=4169E1&center=true&vCenter=true&width=600&font=Fira+Code&lines=I'm+Areeba+Aamir;A+Tech+Explorer+⚡;Always+Learning+🚀">
   </a>
 </p>
-💻 **Aspiring Software Developer | Programmer | Web Enthusiast**  
-
-Welcome to my GitHub profile! I’m passionate about **programming, web development, and problem-solving**.  
-Currently, I’m exploring **Web Technologies**, and building projects to sharpen my skills.  
 
 ---
 
