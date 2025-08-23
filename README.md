@@ -6,9 +6,8 @@
 </p>
 
 
+<h3 align="center">⭐️ Code, Learn, and Build – One step at a time! </h3>
 
-
-⭐️ *“Code, Learn, and Build – One step at a time!”*  
 
 ## 📊 GitHub Stats
 
