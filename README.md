@@ -1,4 +1,4 @@
-# Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=4169E1&center=true&vCenter=true&width=600&font=Fira+Code&lines=I'm+Areeba+Aamir;A+Tech+Explorer+⚡;Always+Learning+🚀">
