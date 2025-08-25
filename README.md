@@ -7,13 +7,30 @@
 
 <h3 align="center">⭐️ Code, Learn, and Build – One step at a time! </h3>
 
-## 📊 GitHub Stats & 🔥 Top Languages
+---
 
-| ![Areeba's GitHub stats](https://github-readme-stats.vercel.app/api?username=areeba-amirr&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ff79c6&text_color=ffffff&icon_color=79c0ff) | [![GitHub Streak](https://streak-stats.demolab.com?user=areeba-amirr&theme=dark&hide_border=true&background=000000&ring=ff79c6&fire=ff6e96&currStreakLabel=ffffff)](https://git.io/streak-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areeba-amirr&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ff79c6&text_color=ffffff) |
-|---|---|---|
+## 📊 My GitHub Dashboard  
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center"><b>⭐ Stats</b><br><br>
+        <img src="https://github-readme-stats.vercel.app/api?username=areeba-amirr&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ff79c6&text_color=ffffff&icon_color=79c0ff" />
+      </td>
+      <td align="center"><b>🔥 Streak</b><br><br>
+        <img src="https://streak-stats.demolab.com?user=areeba-amirr&theme=dark&hide_border=true&background=000000&ring=ff79c6&fire=ff6e96&currStreakLabel=ffffff" />
+      </td>
+      <td align="center"><b>🛠️ Top Languages</b><br><br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areeba-amirr&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ff79c6&text_color=ffffff" />
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
-## 📈 My Contribution Timeline
+## 📈 My Contribution Timeline  
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=areeba-amirr&bg_color=000000&color=ffffff&line=ff79c6&point=79c0ff&area=true&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=areeba-amirr&bg_color=000000&color=ffffff&line=ff79c6&point=79c0ff&area=true&hide_border=true" />
+</p>
