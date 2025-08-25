@@ -9,7 +9,7 @@
 
 ---
 
-## 📊 My GitHub Dashboard  
+<h2 align="center">📊 My GitHub Dashboard </h2>  
 
 <p align="center">
   <table>
@@ -28,8 +28,7 @@
 </p>
 
 ---
-
-## 📈 My Contribution Timeline  
+<h2 align="center"> 📈 My Contribution Timeline  </h2>  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=areeba-amirr&bg_color=000000&color=ffffff&line=ff79c6&point=79c0ff&area=true&hide_border=true" />
