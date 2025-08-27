@@ -15,13 +15,10 @@
 <h2 align="center">📊 My GitHub Dashboard </h2>  
 
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
       <td align="center"><b>⭐ Stats</b><br><br>
         <img src="https://github-readme-stats.vercel.app/api?username=areeba-amirr&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ff79c6&text_color=ffffff&icon_color=79c0ff" />
-      </td>
-      <td align="center"><b>🔥 Streak</b><br><br>
-        <img src="https://streak-stats.demolab.com?user=areeba-amirr&theme=dark&hide_border=true&background=000000&ring=ff79c6&fire=ff6e96&currStreakLabel=ffffff" />
       </td>
       <td align="center"><b>🛠️ Top Languages</b><br><br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areeba-amirr&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ff79c6&text_color=ffffff" />
@@ -29,6 +26,7 @@
     </tr>
   </table>
 </p>
+
 
 ---
 <h2 align="center"> 📈 My Contribution Timeline  </h2>  
