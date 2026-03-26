@@ -17,9 +17,6 @@
 <p align="center">
   <table align="center">
     <tr>
-      <td align="center"><b>⭐ Stats</b><br><br>
-        <img src="https://github-readme-stats.vercel.app/api?username=areeba-amirr&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ff79c6&text_color=ffffff&icon_color=79c0ff" />
-      </td>
       <td align="center"><b>🛠️ Top Languages</b><br><br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areeba-amirr&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ff79c6&text_color=ffffff" />
       </td>
